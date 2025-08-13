@@ -6,7 +6,7 @@
 ## 📌 Overview
 
 We Showcase **Exploratory Data Analysis (EDA)** and **Feature Engineering** on a real-world flight price dataset to identify factors influencing airfare and prepare the data for **predictive modeling**.
-The workflow covers data cleaning, transformation, visualization, and encoding to produce a **model-ready dataset** for future machine learning applications.
+The workflow covers data cleaning, transformation, and encoding to produce a **model-ready dataset** for future machine learning applications.
 
 ---
 
